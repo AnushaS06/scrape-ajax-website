@@ -1,0 +1,254 @@
+[
+    {
+        "hours": "8:00 a.m. to 9:00 p.m. Seven days a week", 
+        "phone": "251-206-7028", 
+        "name": "Mobile", 
+        "full_address": "3968 Airport Blvd,Mobile,AL 36608"
+    }, 
+    {
+        "hours": "8am to 9pm Seven Days A Week ", 
+        "phone": "256.801.3741", 
+        "name": "Huntsville", 
+        "full_address": "2501 Memorial Pkwy SW,Huntsville,AL 35801"
+    }, 
+    {
+        "hours": "8:00am - 9:00pm Mon-Sun", 
+        "phone": "334.523.2940", 
+        "name": "Montgomery", 
+        "full_address": "1450 Taylor Rd,Montgomery,AL 36117"
+    }, 
+    {
+        "hours": "8am to 10pm Monday - Saturday, 8am to 9pm Sunday", 
+        "phone": "205.912.8400", 
+        "name": "Mountain Brook", 
+        "full_address": "3100 Cahaba Village Plaza,Birmingham,AL 35243"
+    }, 
+    {
+        "hours": "OPEN DAILY - 7am to 10pm   Juice Bar open 7am to 9pm.", 
+        "phone": "480.456.1400", 
+        "name": "Tempe", 
+        "full_address": "5120 S. Rural Rd,Tempe,AZ 85282"
+    }, 
+    {
+        "hours": "7am to 10pm Seven days a week", 
+        "phone": "480.515.3777", 
+        "name": "Scottsdale", 
+        "full_address": "7111 E. Mayo Blvd.,Phoenix,AZ 85054"
+    }, 
+    {
+        "hours": "8am - 9pm Monday-Saturday, 8am - 8pm Sunday, 7am- Coffee/Juice bar only  ", 
+        "phone": "928-282-6311", 
+        "name": "Sedona", 
+        "full_address": "1420 West Hwy. 89A,Sedona,AZ 86336"
+    }, 
+    {
+        "hours": "7:00 a.m. to 10:00 p.m. Seven days a week.", 
+        "phone": "520.461.1300", 
+        "name": "River Road", 
+        "full_address": "5555 E. River Road,Tucson,AZ 85750-1949"
+    }, 
+    {
+        "hours": "Open Daily 7am to 9pm", 
+        "phone": "928-774-5747", 
+        "name": "Flagstaff", 
+        "full_address": "320 S. Cambridge Lane,Flagstaff,AZ 86001"
+    }, 
+    {
+        "hours": "7am - 10pm seven days a week", 
+        "phone": "6027614750", 
+        "name": "Camelback", 
+        "full_address": "4701 N 20th Street,Phoenix,AZ 85016"
+    }, 
+    {
+        "hours": "Open Daily: 7am to 10pm ", 
+        "phone": "602.569.7600", 
+        "name": "Paradise Valley", 
+        "full_address": "10810 N Tatum Blvd,Phoenix,AZ 85028"
+    }, 
+    {
+        "hours": "7am - 10pm,  7 days a week", 
+        "phone": "520.795.9844", 
+        "name": "Speedway", 
+        "full_address": "3360 E. Speedway Blvd.,Tucson,AZ 85716"
+    }, 
+    {
+        "hours": "Open Daily 7:00am -10:00pm", 
+        "phone": "480-821-9447", 
+        "name": "Chandler", 
+        "full_address": "2955 West Ray Road,Chandler,AZ 85225"
+    }, 
+    {
+        "hours": "Open Daily: 7:00 am - 10:00 pm", 
+        "phone": "(520) 352-0111", 
+        "name": "Oracle", 
+        "full_address": "7133 N Oracle Rd,Tucson,AZ 85704"
+    }, 
+    {
+        "hours": "7:30 am to 10:00 pm. Seven days a week. ", 
+        "phone": "501-221-2331", 
+        "name": "Bowman", 
+        "full_address": "501 Bowman Road,Little Rock,AR 72211"
+    }, 
+    {
+        "hours": "STORE: 8am\u201310pm seven days a week; TAPROOM: 3pm\u201310pm", 
+        "phone": "479-695-5561", 
+        "name": "Fayetteville", 
+        "full_address": "3425 N. College Avenue,Fayetteville,AR 72703"
+    }, 
+    {
+        "hours": "8am to 9pm seven days a week", 
+        "phone": "707.829.9801", 
+        "name": "Sebastopol", 
+        "full_address": "6910 McKinley St,Sebastopol,CA 95472"
+    }, 
+    {
+        "hours": "Open 7AM to 10PM daily.", 
+        "phone": "858.642.6700", 
+        "name": "La Jolla", 
+        "full_address": "8825 Villa La Jolla Dr,La Jolla,CA 92037-9994"
+    }, 
+    {
+        "hours": "Store Hours: 7am to 10pm seven days a week", 
+        "phone": "310.274.3360", 
+        "name": "Beverly Hills", 
+        "full_address": "239 North Crescent Dr,Beverly Hills,CA 90210"
+    }, 
+    {
+        "hours": "8:00am - 11:00pm Seven days a week", 
+        "phone": "323-378-3891", 
+        "name": "Silver Lake 365", 
+        "full_address": "2520 Glendale Blvd,Los Angeles,CA 90039"
+    }, 
+    {
+        "hours": "8am to 10pm seven days a week", 
+        "phone": "650.559.0300", 
+        "name": "Los Altos", 
+        "full_address": "4800 El Camino Real,Los Altos,CA 94022"
+    }, 
+    {
+        "hours": "8 a.m. - 10 p.m. Seven days a week.", 
+        "phone": "805-785-0194", 
+        "name": "San Luis Obispo", 
+        "full_address": "1531 Froom Ranch Way,San Luis Obispo,CA 93405"
+    }, 
+    {
+        "hours": "8:00 a.m. to 10:00 p.m. Seven days a week.  Join us in the Dublin Vine Taproom from 11am to 930pm (also seven days a week) ", 
+        "phone": "925-452-2226", 
+        "name": "Dublin CA", 
+        "full_address": "5200 Dublin Blvd.,Dublin,CA 94568"
+    }, 
+    {
+        "hours": "7 am to 10 pm - Seven days a week                                                                                     ", 
+        "phone": "818.762.5548", 
+        "name": "Sherman Oaks", 
+        "full_address": "12905 Riverside Drive,Sherman Oaks,CA 91423"
+    }, 
+    {
+        "hours": "7am to 10pm seven days a week", 
+        "phone": "562.598.8687", 
+        "name": "Long Beach", 
+        "full_address": "6550 E. Pacific Coast Highway,Long Beach,CA 90803"
+    }, 
+    {
+        "hours": "8am to 9pm seven days a week ", 
+        "phone": "831.464.2900", 
+        "name": "Capitola", 
+        "full_address": "1710 41st Avenue,Capitola,CA 95010"
+    }, 
+    {
+        "hours": "8:00am to 10:00pm seven days a week", 
+        "phone": "310.257.8700", 
+        "name": "Torrance", 
+        "full_address": "2655 Pacific Coast Hwy,Torrance,CA 90505"
+    }, 
+    {
+        "hours": "7am to 10pm seven days a week", 
+        "phone": "310.826.4433", 
+        "name": "Brentwood", 
+        "full_address": "11737 San Vicente Blvd,Los Angeles,CA 90049"
+    }, 
+    {
+        "hours": "7am - 10pm, 7 days a week", 
+        "phone": "805-837-6959", 
+        "name": "Santa Barbara", 
+        "full_address": "3761 State Street,Santa Barbara,CA 93105"
+    }, 
+    {
+        "hours": "7am - 10pm seven days a week Rock-It Bar 11am - 9pm", 
+        "phone": "949.900.5830", 
+        "name": "Laguna Niguel", 
+        "full_address": "23932 Aliso Creek Road,Laguna Niguel,CA 92677"
+    }, 
+    {
+        "hours": "7am to 10pm. Seven days a week", 
+        "phone": "310.824.0858", 
+        "name": "Westwood", 
+        "full_address": "1050 S. Gayley Ave,Los Angeles,CA 90024"
+    }, 
+    {
+        "hours": "8am to 9pm seven days a week", 
+        "phone": "831.333.1600", 
+        "name": "Monterey", 
+        "full_address": "800 Del Monte Center,Monterey,CA 93940"
+    }, 
+    {
+        "hours": "Summer Hours: 7:00 a.m. to 9:00 p.m, seven days a week ", 
+        "phone": "(760) 797-8200", 
+        "name": "Palm Desert", 
+        "full_address": "44-459 Town Center Way,Palm Desert,CA 92260"
+    }, 
+    {
+        "hours": "7am to 11pm - 7 Days a Week    ", 
+        "phone": "818.578.7840", 
+        "name": "Tarzana", 
+        "full_address": "18700 Ventura Blvd,Tarzana,CA 91356"
+    }, 
+    {
+        "hours": "7am to 9pm seven days a week", 
+        "phone": "949.376.7888", 
+        "name": "Laguna Beach", 
+        "full_address": "283 Broadway St.,Laguna Beach,CA 92651"
+    }, 
+    {
+        "hours": "7:30am to 9pm seven days a week", 
+        "phone": "925.284.5305", 
+        "name": "Lafayette", 
+        "full_address": "3502 Mt. Diablo Blvd.,Lafayette,CA 94549"
+    }, 
+    {
+        "hours": "Coffee Bar: open at 7am    Store:8:00am - 10:00pm Seven days a week", 
+        "phone": "408-562-9162", 
+        "name": "Santa Clara", 
+        "full_address": "2732 Augustine Drive,Santa Clara,CA 95054"
+    }, 
+    {
+        "hours": "8am to 10pm, Seven days a week.   ", 
+        "phone": "415.552.1155", 
+        "name": "Potrero Hill", 
+        "full_address": "450 Rhode Island St,San Francisco,CA 94107"
+    }, 
+    {
+        "hours": "Open 7 a.m. - 10 p.m. daily / 7th Ave Pub: 12 p.m. - 9:30 p.m. daily.                                                                                              ", 
+        "phone": "619.294.2800", 
+        "name": "Hillcrest", 
+        "full_address": "711 University Ave,San Diego,CA 92103"
+    }, 
+    {
+        "hours": "6:30am to 11pm. Seven days a week.", 
+        "phone": "310.566.9480", 
+        "name": "Venice", 
+        "full_address": "225 Lincoln Blvd.,Venice,CA 90291"
+    }, 
+    {
+        "hours": "7am to 9pm seven days a week ", 
+        "phone": "916.488.2800", 
+        "name": "Sacramento", 
+        "full_address": "4315 Arden Way,Sacramento,CA 95864"
+    }, 
+    {
+        "hours": "8:00 am to 10:00 pm.  Seven days a week.", 
+        "phone": "650.358.6900", 
+        "name": "San Mateo", 
+        "full_address": "1010 Park Place,San Mateo,CA 94403"
+    }
+]
